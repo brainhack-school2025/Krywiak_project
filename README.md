@@ -4,4 +4,4 @@
    <br /><sub><b>Onjoli K</b></sub>
 </a>
 
-**Bio:** Hello!
+Hi! My name is Onjoli. I am a first-year Masters student with the Institute of Medical Science at University of Toronto. My research focuses on suicide intervention, gamified tasks and cognition.
